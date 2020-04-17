@@ -1,0 +1,70 @@
+/*#logo{
+  position: center;
+  position: fixed;
+}
+*/
+#inPageNav {
+  text-align: center;
+}
+
+#inPageNav a {
+  text-decoration: none;
+  margin:0px;
+  background-color: #FFFACD;
+  color: indianred;
+}
+
+h1 {
+  background-color: #FFFACD; /*lemonchifon*/
+  font-size: 50px;
+  text-align: center;
+  color: indianred;
+  margin:0px;
+  padding: 0px;
+}
+
+h2 {
+  font-style: italic;
+  font-weight: 600;
+  margin-top: 0px;
+  margin-bottom: 5px;
+}
+
+.stack {
+  float:left;
+}
+
+.food {
+  width:275px;
+  background: #FFFACD;
+  border-radius: 4px;
+  padding-bottom: 2px;
+  /*display: inline-block;*/
+  margin-left: 5px;
+  margin-bottom: 5px;
+}
+
+.food p {
+font-family: monospace;
+font-style: italic;
+padding-left: 10px;
+margin-top: 0px;
+}
+
+.base {
+  color: indianred;
+  margin-bottom: 0px;
+}
+
+.price {
+  text-align: right;
+  padding-left: 10px;
+  font-size: 12px;
+}
+
+.detail {
+  font-family: monospace;
+  font-style: italic;
+  padding-left: 10px;
+  margin-top: 0px;
+}
